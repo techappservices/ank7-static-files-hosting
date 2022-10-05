@@ -1,0 +1,1 @@
+# ank7-static-files-hosting
