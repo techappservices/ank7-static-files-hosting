@@ -5,13 +5,33 @@
             "name": "The Dark Side of the Moon",
             "role":"Cinematographer",
             "description": "The Dark Side of the Moon is the eighth studio album by the English rock band Pink Floyd, released on 1 March 1973 by Harvest Records. It built on ideas explored in their earlier recordings and live shows, and incorporated progressive rock, psychedelic rock, and art rock into a concept album about conflict, greed, and unexplained death. The album's title is derived from a line in the book The Wizard of Oz, and the cover art, designed by Storm Thorgerson, depicts a prism splitting a beam of light into a rainbow.",
-            "image": "https://images.unsplash.com/photo-1462043103994-3eb31d19a057?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+            "image": "https://images.unsplash.com/photo-1462043103994-3eb31d19a057?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+            "details" : [
+                {
+                    "type" : "image",
+                    "url" : "https://images.unsplash.com/photo-1462043103994-3eb31d19a057?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+                },
+                {
+                    "type" : "video",
+                    "url" : "https://youtu.be/IWKgw8nvcmI"
+                }
+            ]
         },
         {
             "id": 2,
             "name": "The Dark Side of the Moon",
             "role":"Additional Cinematographer",
             "description": "The Dark Side of the Moon is the eighth studio album by the English rock band Pink Floyd, released on 1 March 1973 by Harvest Records. It built on ideas explored in their earlier recordings and live shows, and incorporated progressive rock, psychedelic rock, and art rock into a concept album about conflict, greed, and unexplained death. The album's title is derived from a line in the book The Wizard of Oz, and the cover art, designed by Storm Thorgerson, depicts a prism splitting a beam of light into a rainbow.",
+            "details" : [
+                {
+                    "type" : "image",
+                    "url" : "https://images.unsplash.com/photo-1462043103994-3eb31d19a057?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+                },
+                {
+                    "type" : "video",
+                    "url" : "https://youtu.be/IWKgw8nvcmI"
+                }
+            ],
             "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=873&q=80"
         },
         {
@@ -19,6 +39,16 @@
             "name": "The Dark Side of the Moon",
             "role":"Colorist",
             "description": "The Dark Side of the Moon is the eighth studio album by the English rock band Pink Floyd, released on 1 March 1973 by Harvest Records. It built on ideas explored in their earlier recordings and live shows, and incorporated progressive rock, psychedelic rock, and art rock into a concept album about conflict, greed, and unexplained death. The album's title is derived from a line in the book The Wizard of Oz, and the cover art, designed by Storm Thorgerson, depicts a prism splitting a beam of light into a rainbow.",
+            "details" : [
+                {
+                    "type" : "image",
+                    "url" : "https://images.unsplash.com/photo-1462043103994-3eb31d19a057?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+                },
+                {
+                    "type" : "video",
+                    "url" : "https://youtu.be/IWKgw8nvcmI"
+                }
+            ],
             "image": "https://images.unsplash.com/photo-1529180979161-06b8b6d6f2be?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80"
         },
         {
@@ -26,6 +56,16 @@
             "name": "The Dark Side of the Moon",
             "role":"Cinematographer",
             "description": "The Dark Side of the Moon is the eighth studio album by the English rock band Pink Floyd, released on 1 March 1973 by Harvest Records. It built on ideas explored in their earlier recordings and live shows, and incorporated progressive rock, psychedelic rock, and art rock into a concept album about conflict, greed, and unexplained death. The album's title is derived from a line in the book The Wizard of Oz, and the cover art, designed by Storm Thorgerson, depicts a prism splitting a beam of light into a rainbow.",
+            "details" : [
+                {
+                    "type" : "image",
+                    "url" : "https://images.unsplash.com/photo-1462043103994-3eb31d19a057?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+                },
+                {
+                    "type" : "video",
+                    "url" : "https://youtu.be/IWKgw8nvcmI"
+                }
+            ],
             "image": "https://images.unsplash.com/photo-1483428400520-675ef69a3bc4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
         },
         {
@@ -33,6 +73,16 @@
             "name": "The Dark Side of the Moon",
             "role":"Cinematographer",
             "description": "The Dark Side of the Moon is the eighth studio album by the English rock band Pink Floyd, released on 1 March 1973 by Harvest Records. It built on ideas explored in their earlier recordings and live shows, and incorporated progressive rock, psychedelic rock, and art rock into a concept album about conflict, greed, and unexplained death. The album's title is derived from a line in the book The Wizard of Oz, and the cover art, designed by Storm Thorgerson, depicts a prism splitting a beam of light into a rainbow.",
+            "details" : [
+                {
+                    "type" : "image",
+                    "url" : "https://images.unsplash.com/photo-1462043103994-3eb31d19a057?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+                },
+                {
+                    "type" : "video",
+                    "url" : "https://youtu.be/IWKgw8nvcmI"
+                }
+            ],
             "image": "https://images.unsplash.com/photo-1506836467174-27f1042aa48c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
         },
         {
@@ -40,6 +90,16 @@
             "name": "The Dark Side of the Moon",
             "role":"Cinematographer",
             "description": "The Dark Side of the Moon is the eighth studio album by the English rock band Pink Floyd, released on 1 March 1973 by Harvest Records. It built on ideas explored in their earlier recordings and live shows, and incorporated progressive rock, psychedelic rock, and art rock into a concept album about conflict, greed, and unexplained death. The album's title is derived from a line in the book The Wizard of Oz, and the cover art, designed by Storm Thorgerson, depicts a prism splitting a beam of light into a rainbow.",
+            "details" : [
+                {
+                    "type" : "image",
+                    "url" : "https://images.unsplash.com/photo-1462043103994-3eb31d19a057?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+                },
+                {
+                    "type" : "video",
+                    "url" : "https://youtu.be/IWKgw8nvcmI"
+                }
+            ],
             "image": "https://images.unsplash.com/photo-1483428400520-675ef69a3bc4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
         },
         {
@@ -47,6 +107,16 @@
             "name": "The Dark Side of the Moon",
             "role":"Cinematographer",
             "description": "The Dark Side of the Moon is the eighth studio album by the English rock band Pink Floyd, released on 1 March 1973 by Harvest Records. It built on ideas explored in their earlier recordings and live shows, and incorporated progressive rock, psychedelic rock, and art rock into a concept album about conflict, greed, and unexplained death. The album's title is derived from a line in the book The Wizard of Oz, and the cover art, designed by Storm Thorgerson, depicts a prism splitting a beam of light into a rainbow.",
+            "details" : [
+                {
+                    "type" : "image",
+                    "url" : "https://images.unsplash.com/photo-1462043103994-3eb31d19a057?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+                },
+                {
+                    "type" : "video",
+                    "url" : "https://youtu.be/IWKgw8nvcmI"
+                }
+            ],
             "image": "https://drive.google.com/uc?export=view&id=1AE8zObu53-WttfhhbgXP7tfGqeXB_e6H"
         }
     ]
